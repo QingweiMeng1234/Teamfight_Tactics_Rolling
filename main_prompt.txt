@@ -1,0 +1,21 @@
+Write a program that simulates the tft rolling system. Here is the rule of the rolling system:
+
+The store refreshes for free at the start of each round, but you can also spend 2 gold to refresh it manually at any time.
+The cost to buy champions ranges from 1 to 5 gold depending on their tier (1-star to 5-star).
+The chance of getting each tier of champion in the store changes as your player level increases.
+As of my last update, the odds for each level were as follows:
+
+Level 1: 100% chance for a 1-star champion.
+Level 2: 100% chance for a 1-star champion.
+Level 3: 75% chance for a 1-star champion, 25% for a 2-star.
+Level 4: 55% chance for a 1-star champion, 30% for a 2-star, 15% for a 3 star.
+Level 5: 45% chance for a 1-star champion, 33% for a 2-star, 20% for a 3-star, 2% for a 4-star.
+Level 6: 25% chance for a 1-star champion, 40% for a 2-star, 30% for a 3-star, 5% for a 4-star.
+Level 7: 19% chance for a 1-star champion, 30% for a 2-star, 35% for a 3-star, 15% for a 4-star, 1% for a 5-star.
+Level 8: 16% chance for a 1-star champion, 20% for a 2-star, 35% for a 3-star, 25% for a 4-star, 4% for a 5-star.
+Level 9: 9% chance for a 1-star champion, 15% for a 2-star, 30% for a 3-star, 30% for a 4-star, 16% for a 5-star.
+Level 10: 5% chance for a 1-star champion, 10% for a 2-star, 20% for a 3-star, 40% for a 4-star, 25% for a 5-star.
+Level 11: 1% chance for a 1-star champion, 2% for a 2-star, 12% for a 3-star, 50% for a 4-star, 35% for a 5-star.
+
+
+
